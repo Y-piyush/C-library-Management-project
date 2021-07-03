@@ -425,7 +425,7 @@ void intro()
 {
 system("cls");
 cout<<"\n\n\n\t\t __________________________";
-cout<<"\n\n\t\t\tNEW R.S.J. PUBLIC SCHOOL";
+cout<<"\n\n\t\t\tORGANIZATION NAME";
 cout<<"\n\t\t __________________________";
 cout<<"\n\n\n\n\n\t\t\t\t";
 cout<<"LIBRARY";
@@ -433,8 +433,7 @@ cout<<"\n\n\n\t\t\t\t";
 cout<<"MANAGEMENT";
 cout<<"\n\n\n\t\t\t\t";
 cout<<"SYSTEM";
-cout<<"\n\n\nMADE BY:LAKSHMI NARAYAN DWIVEDI";
-cout<<"\n\tPIYUSH";
+cout<<"\n\n\nMADE BY:PIYUSH";
 getch();
 }
 void admin_menu()
